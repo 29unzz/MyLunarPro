@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyLunarPro</string>
+    <string name="main_text">This is lunar learning...!</string>
 </resources>
